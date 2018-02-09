@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cancel_selection"
+        android:title="@string/cancel_selection"
+        android:icon="@drawable/action_cancel"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_importFile"
+        android:title="@string/import_file"
+        android:icon="@drawable/ic_collections_black_24dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_tackePic"
+        android:title="@string/take_picture_actionbar"
+        android:icon="@drawable/action_camera"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_delete"
+        android:title="@string/delete_selected_files"
+        android:icon="@drawable/action_delete"
+        app:showAsAction="always" />
+
+</menu>

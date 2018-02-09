@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pic2Text</string>
+    <string name="take_picture">Сделайте снимок</string>
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="pref_header_general">Общий</string>
+    <string name="choose_process_lang">Язык процесса</string>
+    <string name="choose_display_lang">Язык отображения</string>
+    <string name="source_language">Исходный язык перевода</string>
+    <string name="destination_language">Целевой язык перевода</string>
+    <string name="action_about">Меню настроек</string>
+    <string name="process_image">Обработать изображение</string>
+    <string name="tips">Советы</string>
+    <string name="settings">Настройки</string>
+    <string name="cancel_selection">Отменить выбор</string>
+    <string name="import_file">Импортировать файл</string>
+    <string name="take_picture_actionbar">Сделать фотографию</string>
+    <string name="delete_selected_files">Удалить выбранные файлы</string>
+    <string name="delete">Удалить</string>
+    <string name="send_file">Отправить файл</string>
+    <string name="add_picture">Добавить картинку</string>
+    <string name="google_translate">Переводчик Гугл</string>
+    <string name="Save">Сохранить файл</string>
+    <string name="share">Отправить текст</string>
+    <string name="action_settings">Настройки</string>
+    <string name="fontSize_list">Размер шрифта</string>
+    <string name="process_language">Язык перевода</string>
+    <string name="tip1">&#8226; Изображения хорошего качества упрощают и ускоряют обработку изображения</string>
+    <string name="tip2">&#8226; Меньше текста на снимке ускоряет обработку изображения</string>
+    <string name="tip3">&#8226; Если изображение взято с экрана телефона / компьютера, убедитесь, что оно достаточно далеко, чтобы не улавливать пиксели экрана, для лучшей обработки</string>
+    <string name="tip4">&#8226; Если процесс слишком длинный, и он терпит неудачу, попробуйте использовать более качественное изображение с четкими словами</string>
+    <string name="tip5">Используйте эту кнопку, чтобы извлечь много изображений в один и тот же файл</string>
+    <string name="tip6">\\u2022 Длительное нажатие на элемент для отметки файлов для удаления</string>
+    <string name="blank">Пустой</string>
+    <string name="this_is_main_activity">Это основная Деятельность</string>
+    <string name="toast1_need_camera">Аппликации нужны разрешения для доступа к файлам камер</string>
+    <string name="toast2_need_gallery">Аппликации нуждается в разрешениях доступа к файлам галереи</string>
+    <string name="toast3_pic_canceled">Импорт изображения отменен</string>
+    <string name="toast4_no_cam_activity">Отсутствие активности камеры для обработки события</string>
+    <string name="toast5_no_crop">Ваше устройство не поддерживает действие обрезки!</string>
+    <string name="toast6_no_all_perms">Аппликациину ждается в разрешениях доступа к изображениям и текстовым файлам</string>
+    <string name="toast7_fail_process">Не удалось обработать изображение. Пожалуйста, попробуйте еще раз</string>
+    <string name="toast8_no_file_open">Не удалось открыть текстовый файл</string>
+    <string name="toast9_got_perm">Разрешение предоставлено, повторите попытку</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_delete"
+        android:title="@string/delete"
+        android:icon="@drawable/action_delete"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add"
+        android:title="@string/add_picture"
+        android:icon="@drawable/ic_add_to_photos_black_24dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_translate"
+        android:title="@string/google_translate"
+        android:icon="@drawable/action_translatem"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_save"
+        android:title="@string/Save"
+        android:icon="@drawable/action_savem"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_send"
+        android:title="@string/send_file"
+        android:icon="@drawable/action_sendm"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_share"
+        android:title="@string/share"
+        android:icon="@drawable/action_sharem"
+        app:showAsAction="always" />
+
+</menu>

@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Pic2Text</string>
+    <string name="take_picture">Take picture</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_header_general">General</string>
+    <string name="choose_process_lang">Choose Process Language</string>
+
+    <string-array name="lang_list">
+        <item>English</item>
+        <item>Hebrew</item>
+        <item>Russian</item>
+    </string-array>
+
+    <string name="fontSize_list">Choose font size</string>
+
+    <string-array name="size_list">
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+    </string-array>
+
+    <!-- TOAST STRINGS -->
+    <string name="toast1_need_camera">App need permissions to touch camera files</string>
+    <string name="toast2_need_gallery">App need permissions to access gallery files</string>
+    <string name="toast3_pic_canceled">Picture import has been canceled</string>
+    <string name="toast4_no_cam_activity">No camera activity to handle event</string>
+    <string name="toast5_no_crop">Your device doesn\'t support the crop action!</string>
+    <string name="toast6_no_all_perms">App need permissions to access picture and text files</string>
+    <string name="toast7_fail_process">Failed to process picture. Please try again</string>
+    <string name="toast8_no_file_open">Couldn\'t open text file</string>
+    <string name="toast9_got_perm">Permission granted, please retry</string>
+
+
+    <!-- TIPS -->
+    <string name="tip1">\u2022 Good quality pictures make it easier and faster to process the picture</string>
+    <string name="tip2">\u2022 Less text on a picture makes it faster to process the picture</string>
+    <string name="tip3">\u2022 If the picture is taken from a phone/pc screen, make sure its far enough not to catch the screen pixels, for better processing</string>
+    <string name="tip4">\u2022 If the process is too long and fails, try using a better picture with clear words</string>
+    <string name="tip5">Use that button to extract many pictures into the same file</string>
+    <string name="tip6">\u2022 Use long press on an item to mark files for deletion</string>
+
+
+    <string name="choose_display_lang">Choose Display Language</string>
+    <string name="source_language">Translate Source Language</string>
+    <string name="destination_language">Translate Destination Language</string>
+    <string name="action_about">SettingTollbar</string>
+    <string name="process_image">Process Image</string>
+    <string name="blank">Blank settings</string>
+    <string name="tips">Tips</string>
+    <string name="settings">Settings</string>
+    <string name="cancel_selection">Cancel selection</string>
+    <string name="import_file">Import File</string>
+    <string name="take_picture_actionbar">Take Picture</string>
+    <string name="delete_selected_files">Delete Selected Files</string>
+    <string name="delete">Delete</string>
+    <string name="send_file">Share File</string>
+    <string name="add_picture">Continuous File</string>
+    <string name="google_translate">Google Translate</string>
+    <string name="Save">Save File</string>
+    <string name="share">Share text</string>
+    <string name="process_language">Process Language:</string>
+    <string name="this_is_main_activity">This is Main Activity</string>
+
+</resources>

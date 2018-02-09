@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pic2Text</string>
+    <string name="take_picture">צלם תמונה</string>
+    <string name="navigation_drawer_open">פתח תפריט</string>
+    <string name="navigation_drawer_close">סגור תפריט</string>
+    <string name="pref_header_general">כללי</string>
+    <string name="choose_process_lang">בחר שפת עיבוד</string>
+    <string name="choose_display_lang">בחר שפת תצוגה</string>
+    <string name="source_language">בחר שפת מקור לתרגום</string>
+    <string name="destination_language">בחר שפת יעד לתרגום</string>
+    <string name="action_about">תפריט הגדרות</string>
+    <string name="process_image">בצע עיבוד תמונה</string>
+    <string name="blank">ריק</string>
+    <string name="this_is_main_activity">זה חלון ראשי</string>
+    <string name="tips">טיפים</string>
+    <string name="settings">הגדרות</string>
+    <string name="cancel_selection">בטל בחירה</string>
+    <string name="import_file">ייבא קובץ</string>
+    <string name="take_picture_actionbar">צלם תמונה</string>
+    <string name="delete_selected_files">מחק קבצים שנבחרו</string>
+    <string name="delete">מחק</string>
+    <string name="send_file">שתף קובץ</string>
+    <string name="add_picture">הוסף תמונה</string>
+    <string name="google_translate">המתרגם של גוגל</string>
+    <string name="Save">שמור קובץ</string>
+    <string name="share">שתף טקסט</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="fontSize_list">בחר גודל גופן</string>
+    <string name="process_language">בחר שפת עיבוד</string>
+    <string name="tip1">&#8226; תמונות באיכות גבוהה מקלות על מהירות העיבוד של התמונה</string>
+    <string name="tip2">&#8226; פחות טקסט על תמונה מאיץ את תהליך העיבוד של התמונה</string>
+    <string name="tip3">&#8226; אם התמונה נלקחת ממסך מחשב/פלפון, וודאו כי המרחק גדול מספיק לא לתפוס את הפיקסלים של המסך, לצורך עיבוד טוב ונכון</string>
+    <string name="tip4">&#8226; אם העיבוד נמשך זמן רב ונכשל, נסו להשתמש בתמונה טובה יותר עם מילים ברורות</string>
+    <string name="tip6">&#8226; לחצו לחיצה ארוכה על מנת לסמן קבצים למחיקה</string>
+    <string name="tip5">&#8226; השתמשו בתמונה זו על מנת לעבד מספר תמונות לאותו הקובץ</string>
+    <string name="toast1_need_camera">האפליקציה צריכה הרשאות גישה למצלמה</string>
+    <string name="toast2_need_gallery">האפליקציה צריכה הרשאות גישה לגלריה</string>
+    <string name="toast3_pic_canceled">ייבוא תמונה התבטל</string>
+    <string name="toast4_no_cam_activity">אין אקטיביטי של מצלמה פנוי לביצוע הפעולה</string>
+    <string name="toast5_no_crop">המכשיר אינו תומך בפעולת גזירה</string>
+    <string name="toast6_no_all_perms">האפליקציה צריכה הרשאות גישה לקבצי תמונה וטקסט</string>
+    <string name="toast7_fail_process">עיבוד התמונה נכשל. נסו שנית בבקשה</string>
+    <string name="toast8_no_file_open">לא הצליח לפתוח קובץ טקסט</string>
+    <string name="toast9_got_perm">ההרשאות ניתנו, בבקשה נסו שנית</string>
+</resources>

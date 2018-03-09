@@ -1,1 +1,0 @@
-# Pic2Text_Android_Project_Eran_Sasha
